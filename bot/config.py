@@ -7,7 +7,7 @@ class config:
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "907951909232-uva4a5juvihcjlopfcimn8lfafkt91sq.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
-    SUPPORT_CHAT_LINK = "https://t.me/+yjBTqFW7MjlkNWE1"
+    SUPPORT_CHAT_LINK = "https://t.me/javsub_english"
 
 
 class BotCommands:
